@@ -19,6 +19,7 @@ img{
 }
 /*initially used class "sign-up", but found button works */
 button{
+    color:#F9FAF8;
     min-width:80px;
     max-width: 100px;
     height: 24px;
