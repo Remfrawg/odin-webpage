@@ -74,6 +74,7 @@ a{
 /*first section of the webpage w/ title */
 .sub-one{
     display: flex;
+    flex-wrap: wrap;
     padding: 36px;
     justify-content: center;
     gap:32px;
@@ -133,6 +134,7 @@ h1{
 /*container for box*/
 .boxes{
     display:flex;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 32px;
     margin: 20px 0px;
